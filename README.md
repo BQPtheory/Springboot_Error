@@ -21,7 +21,6 @@ Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.5.2:r
 
 <hr>
 
-<p aling="center"> 
+
   - Error resuelto, al omitir etiquetas de dependencias de JPA y MySQL!
 
-<p/>
