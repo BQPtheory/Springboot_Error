@@ -1,6 +1,9 @@
 # Springboot_Error
 Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.5.2:run (default-cli) on project horarios: Application finished with exit code: 1 -> [Help 1]
 
+- [Error_Log](https://github.com/BQPTheroy/Springboot_Error/blob/main/Error_Log)
+
+
 <hr>
 
 <p align="center">
